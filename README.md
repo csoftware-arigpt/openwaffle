@@ -14,6 +14,8 @@ Source code of WaffleAi UI and WaffleAi Bot
 
 [PyTelegramBotAPI - eternnoir - Licensed under GNU GPL-v2](https://github.com/eternnoir/pyTelegramBotAPI)
 
+[OpenChat - imoneoi - Licensed under Apache 2.0](https://github.com/imoneoi/openchat)
+
 ## Copyrights
 
 @csoftware - noogle, waffleai ui, waffleai bot
